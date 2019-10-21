@@ -19,6 +19,7 @@ Finally in high seas where the objects move perpetually, the detremination of th
 
 
 IMPACT
+
 The low rate of super-nodes compared to conventional nodes makes the system less expensive than a 100% satelite solution
 
 People will communicate at a lower cost but also machines. A network of IoT based on the sea will allow to connect nons ships not only ships but also off-shore platforms etc ...
@@ -40,6 +41,7 @@ https://github.com/SAVE-UP/Hybrid/master/README.md
 
 
 RÉFÉRENCE & RESSOURCES
+
 LIBREROUTER HARDWARE https://librerouter.org/
 WAZIUP AN IoT PROJECT for AFRICA https://www.waziup.eu/
 COMMUNITY NETWORK https://www.internetsociety.org/issues/community-networks/
